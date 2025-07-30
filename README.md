@@ -50,7 +50,9 @@ Cada curso incluirá ejemplos prácticos basados en los temas descritos anterior
 | Análisis Estadístico y Modelado Predictivo  |         [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_2/analisis_exploratorio.ipynb)                   |       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_2/analisis_exploratorio_solution.ipynb)                     |
 | Test de Hipótesis |       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_2/test_de_hipotesis.ipynb)                     |           [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_2/test_de_hipotesis_solution.ipynb)                 |
 | Regresión Logistica |    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_2/regresion_logistica.ipynb)                        |         [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iHealthInstitute/Talleres_Diplomado_iHealth/blob/main/curso_2/regresion_logistica_solution.ipynb)                   |
-| Imágenes médicas: Rayos X y reportes radiológicos |                            |                            |
+| Sobreviviencia y análisis por PCA |  Parte 1 : {{badg}} <br />Parte 2:                             |                            |
+
+
 
 ---
 
